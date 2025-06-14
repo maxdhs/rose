@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/maxdhs/rose/issues"
   },
-  "homepage": "https://github.com/maxdhs/rose#readme"
+  "homepage": "https://github.com/maxdhs/rose#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }

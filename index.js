@@ -1,4 +1,4 @@
-import { setTimeout as wait } from "timers/promises";
+const { setTimeout: wait } = require("timers/promises");
 
 const {
   POLL_ID = "15596808",
